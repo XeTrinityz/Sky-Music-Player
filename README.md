@@ -15,7 +15,7 @@
   </p>
 </div>
 
-![Music Player][https://i.imgur.com/Vz6qr7t.png]
+![alt text](https://i.imgur.com/Vz6qr7t.png)
 
 <!-- GETTING STARTED -->
 # Getting Started
