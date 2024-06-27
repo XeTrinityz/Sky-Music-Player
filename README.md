@@ -18,7 +18,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Download Python V3.11.6
+1. Download Python V3.11.6+
    https://www.python.org/downloads/release/python-3116/
 2. Install required packages
    ```sh
