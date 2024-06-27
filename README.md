@@ -15,13 +15,15 @@
   </p>
 </div>
 
-<!-- GETTING STARTED -->
-## Getting Started
+![Music Player][https://i.imgur.com/Vz6qr7t.png]
 
-1. Download Python V3.11.6+
-   https://www.python.org/downloads/release/python-3116/
-2. Install required packages
-   ```sh
-   pip install keyboard
-   ```
-3. Run Sky Music Player.py
+<!-- GETTING STARTED -->
+# Getting Started
+
+## Required Packages
+ ```sh
+ pip install keyboard
+ ```
+
+## Downloads
+- [Python](https://www.python.org/downloads/release/python-3116/)
