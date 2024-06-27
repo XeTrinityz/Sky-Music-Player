@@ -1,0 +1,352 @@
+[
+    {
+      "name": "Daoka",
+      "bpm": 220,
+      "songNotes": [
+        {
+          "time": 400,
+          "key": "Key0"
+        },
+        {
+          "time": 400,
+          "key": "Key3"
+        },
+        {
+          "time": 400,
+          "key": "Key8"
+        },
+        {
+          "time": 672,
+          "key": "Key9"
+        },
+        {
+          "time": 944,
+          "key": "Key11"
+        },
+        {
+          "time": 1216,
+          "key": "Key7"
+        },
+        {
+          "time": 1488,
+          "key": "Key8"
+        },
+        {
+          "time": 1760,
+          "key": "Key1"
+        },
+        {
+          "time": 1760,
+          "key": "Key4"
+        },
+        {
+          "time": 1760,
+          "key": "Key9"
+        },
+        {
+          "time": 2032,
+          "key": "Key11"
+        },
+        {
+          "time": 2304,
+          "key": "Key7"
+        },
+        {
+          "time": 2576,
+          "key": "Key2"
+        },
+        {
+          "time": 2576,
+          "key": "Key5"
+        },
+        {
+          "time": 2576,
+          "key": "Key8"
+        },
+        {
+          "time": 2848,
+          "key": "Key9"
+        },
+        {
+          "time": 3120,
+          "key": "Key11"
+        },
+        {
+          "time": 3392,
+          "key": "Key12"
+        },
+        {
+          "time": 3664,
+          "key": "Key8"
+        },
+        {
+          "time": 3936,
+          "key": "Key4"
+        },
+        {
+          "time": 3936,
+          "key": "Key7"
+        },
+        {
+          "time": 3936,
+          "key": "Key9"
+        },
+        {
+          "time": 4208,
+          "key": "Key5"
+        },
+        {
+          "time": 4480,
+          "key": "Key7"
+        },
+        {
+          "time": 4752,
+          "key": "Key0"
+        },
+        {
+          "time": 4752,
+          "key": "Key3"
+        },
+        {
+          "time": 4752,
+          "key": "Key8"
+        },
+        {
+          "time": 5024,
+          "key": "Key9"
+        },
+        {
+          "time": 5296,
+          "key": "Key11"
+        },
+        {
+          "time": 5568,
+          "key": "Key7"
+        },
+        {
+          "time": 5840,
+          "key": "Key8"
+        },
+        {
+          "time": 6112,
+          "key": "Key1"
+        },
+        {
+          "time": 6112,
+          "key": "Key4"
+        },
+        {
+          "time": 6112,
+          "key": "Key9"
+        },
+        {
+          "time": 6384,
+          "key": "Key11"
+        },
+        {
+          "time": 6656,
+          "key": "Key7"
+        },
+        {
+          "time": 6928,
+          "key": "Key2"
+        },
+        {
+          "time": 6928,
+          "key": "Key5"
+        },
+        {
+          "time": 6928,
+          "key": "Key8"
+        },
+        {
+          "time": 7200,
+          "key": "Key9"
+        },
+        {
+          "time": 7472,
+          "key": "Key11"
+        },
+        {
+          "time": 7744,
+          "key": "Key11"
+        },
+        {
+          "time": 8016,
+          "key": "Key7"
+        },
+        {
+          "time": 8288,
+          "key": "Key8"
+        },
+        {
+          "time": 8560,
+          "key": "Key4"
+        },
+        {
+          "time": 8560,
+          "key": "Key7"
+        },
+        {
+          "time": 8560,
+          "key": "Key9"
+        },
+        {
+          "time": 8832,
+          "key": "Key5"
+        },
+        {
+          "time": 9104,
+          "key": "Key7"
+        },
+        {
+          "time": 9376,
+          "key": "Key0"
+        },
+        {
+          "time": 9376,
+          "key": "Key4"
+        },
+        {
+          "time": 9648,
+          "key": "Key5"
+        },
+        {
+          "time": 9920,
+          "key": "Key7"
+        },
+        {
+          "time": 10192,
+          "key": "Key3"
+        },
+        {
+          "time": 10464,
+          "key": "Key4"
+        },
+        {
+          "time": 10736,
+          "key": "Key1"
+        },
+        {
+          "time": 10736,
+          "key": "Key5"
+        },
+        {
+          "time": 11008,
+          "key": "Key7"
+        },
+        {
+          "time": 11280,
+          "key": "Key3"
+        },
+        {
+          "time": 11552,
+          "key": "Key2"
+        },
+        {
+          "time": 11552,
+          "key": "Key4"
+        },
+        {
+          "time": 11824,
+          "key": "Key5"
+        },
+        {
+          "time": 12096,
+          "key": "Key7"
+        },
+        {
+          "time": 12368,
+          "key": "Key8"
+        },
+        {
+          "time": 12640,
+          "key": "Key0"
+        },
+        {
+          "time": 12640,
+          "key": "Key5"
+        },
+        {
+          "time": 12912,
+          "key": "Key4"
+        },
+        {
+          "time": 13184,
+          "key": "Key3"
+        },
+        {
+          "time": 13456,
+          "key": "Key0"
+        },
+        {
+          "time": 13456,
+          "key": "Key4"
+        },
+        {
+          "time": 13728,
+          "key": "Key5"
+        },
+        {
+          "time": 14000,
+          "key": "Key7"
+        },
+        {
+          "time": 14272,
+          "key": "Key3"
+        },
+        {
+          "time": 14544,
+          "key": "Key4"
+        },
+        {
+          "time": 14816,
+          "key": "Key1"
+        },
+        {
+          "time": 14816,
+          "key": "Key5"
+        },
+        {
+          "time": 15088,
+          "key": "Key7"
+        },
+        {
+          "time": 15360,
+          "key": "Key3"
+        },
+        {
+          "time": 15632,
+          "key": "Key2"
+        },
+        {
+          "time": 15632,
+          "key": "Key4"
+        },
+        {
+          "time": 15904,
+          "key": "Key5"
+        },
+        {
+          "time": 16176,
+          "key": "Key7"
+        },
+        {
+          "time": 16448,
+          "key": "Key8"
+        },
+        {
+          "time": 16720,
+          "key": "Key7"
+        },
+        {
+          "time": 16992,
+          "key": "Key1"
+        },
+        {
+          "time": 16992,
+          "key": "Key5"
+        }
+      ]
+    }
+  ]
